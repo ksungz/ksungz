@@ -15,7 +15,7 @@ AI가 사람의 판단을 대신하게 하기보다 필요한 맥락과 초안, 
 | --- | --- | --- |
 | [Agent Bridge](https://github.com/ksungz/agent-bridge) | 이미 로그인해 사용하는 Claude Code, Codex, Gemini CLI를 한 작업 공간에서 함께 사용하도록 연결합니다. | 오픈소스 |
 | [AX Doctor](https://github.com/ksungz/ax-doctor) | 새 AI 개발 도구를 설치하기 전에 기존 설정과의 충돌, 권한, 확인하지 못한 범위를 점검합니다. | 합성 환경 데모 공개 |
-| [AX Evidence Gates](https://github.com/ksungz/ax-evidence-gates) | 여행·상품·금융 도메인의 AI 결과물을 공개 근거와 합성 데이터로 점검하는 품질 게이트 3종입니다. | 공개 · 33 tests · CI |
+| [AX Evidence Gates](https://github.com/ksungz/ax-evidence-gates) | 여행·상품·금융 AI 결과를 점검하는 품질 게이트 3종과 LangGraph 기반 사람 검토 흐름입니다. | 공개 · 39 tests · CI |
 | [KS UI](https://github.com/ksungz/ksungz-ui) | 실제 상품 화면에서 필요한 옵션, 재고, 오류, 접근성 상태를 공개 React 컴포넌트로 재구성했습니다. | [Storybook](https://ksungz-ui.vercel.app) |
 | [Portfolio](https://github.com/ksungz/ksungz.github.io) | AX 시스템, AI 제품, 실무 적용 사례와 13년간의 제품 운영 경험을 정리했습니다. | [사이트](https://ksungz-github-io.vercel.app) |
 
