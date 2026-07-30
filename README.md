@@ -1,10 +1,10 @@
-# 김성재 | AX Engineer
+# 김성재 | AI Workflow & Product Engineering
 
 13년간 커머스·게임·플랫폼 서비스의 UI를 개발하고 운영했습니다.
 
 현재는 현장에서 반복되는 업무, 문서와 작업 맥락의 단절, 검증 비용을 줄이기 위해
-문제와 적용 범위, 완료 기준을 정하고 AI Agent를 활용해
-RAG, MCP와 자동화 워크플로를 구현·검증하고 운영하고 있습니다.
+문제와 적용 범위, 완료 기준을 정하고 AI 코딩 에이전트로 구현한 결과를
+실제 명령과 테스트로 검증하며 역할을 확장하고 있습니다.
 
 AI가 사람의 판단을 대신하게 하기보다 필요한 맥락과 초안, 확인 항목을 준비하게 하고,
 제품과 사용자에게 영향을 주는 결정은 사람이 맡는 방식을 선호합니다.
@@ -15,9 +15,9 @@ AI가 사람의 판단을 대신하게 하기보다 필요한 맥락과 초안, 
 | --- | --- | --- |
 | [Agent Bridge](https://github.com/ksungz/agent-bridge) | 이미 로그인해 사용하는 Claude Code, Codex, Gemini CLI를 한 작업 공간에서 함께 사용하도록 연결합니다. | 오픈소스 |
 | [AX Doctor](https://github.com/ksungz/ax-doctor) | 새 AI 개발 도구를 설치하기 전에 기존 설정과의 충돌, 권한, 확인하지 못한 범위를 점검합니다. | 합성 환경 데모 공개 |
-| [AX Evidence Gates](https://github.com/ksungz/ax-evidence-gates) | 여행 API 연동 코드, 상품 등록 정보와 투자 답변을 공개 문서 기준으로 점검한 해커톤 제출물 3종과 LangGraph 기반 사람 검토 흐름입니다. | 공개 · 49 tests · CI |
+| [AX Evidence Gates](https://github.com/ksungz/ax-evidence-gates) | 여행 API 연동 코드, 상품 등록 정보와 투자 답변을 공개 문서 기준으로 점검한 해커톤 제출물 3종과 AI 코딩 에이전트와 함께 추가한 LangGraph 학습용 후속 PoC입니다. | 공개 · 49 tests · CI |
 | [KS UI](https://github.com/ksungz/ksungz-ui) | 실제 상품 화면에서 필요한 옵션, 재고, 오류, 접근성 상태를 공개 React 컴포넌트로 재구성했습니다. | [Storybook](https://ksungz-ui.vercel.app) |
-| [Portfolio](https://github.com/ksungz/ksungz.github.io) | AX 시스템, AI 제품, 실무 적용 사례와 13년간의 제품 운영 경험을 정리했습니다. | [사이트](https://ksungz-github-io.vercel.app) |
+| [Portfolio](https://github.com/ksungz/ksungz.github.io) | AI 워크플로우, 제품 프로젝트, 실무 적용 사례와 13년간의 서비스 UI 개발·운영 경험을 정리했습니다. | [사이트](https://ksungz-github-io.vercel.app) |
 
 ## 지금 집중하는 일
 
