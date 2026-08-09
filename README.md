@@ -3,8 +3,9 @@
 13년간 커머스·게임·플랫폼 서비스의 UI를 개발하고 운영했습니다.
 
 모바일웹 상품상세와 신규 서비스 UI를 담당하며 반응형 화면, 크로스브라우징,
-변경 영향 검증과 운영 대응을 수행했습니다. 2,384개 SCSS 파일의 Dart Sass 전환,
-React·TypeScript 컴포넌트 이관과 Storybook 기반 검증 환경 구축을 진행했습니다.
+변경 영향 검증과 운영 대응을 수행했습니다. AI 보조 도구를 활용해 2,384개 SCSS 파일을
+Dart Sass로 전환하고 산출물과 빌드 결과를 직접 검증했으며, HTML/SCSS 기반 화면의
+React·TypeScript 컴포넌트 이관에 참여하고 Storybook 기반 검증 환경을 구축했습니다.
 
 최근에는 Claude Code, Codex, Cursor와 회사에서 제공한 AI 도구를 코드 검토,
 문서 초안과 반복 작업에 활용하고 있습니다. AI가 만든 결과는 실행과 테스트로 다시 확인하며,
@@ -24,13 +25,14 @@ React·TypeScript 컴포넌트 이관과 Storybook 기반 검증 환경 구축�
 
 - 모바일웹과 반응형 서비스 UI 개발·운영
 - HTML·SCSS 레거시 구조의 단계적 현대화
+- AI 보조 도구를 활용한 HTML/SCSS 기반 화면의 React·TypeScript 컴포넌트 이관 참여
 - React·TypeScript 컴포넌트와 Storybook 기반 상태 검증
 - AI를 활용한 코드 검토, 문서 작성과 반복 작업 개선
 
 ## 경험의 기반
 
 - 11번가 모바일웹 상품상세와 신규 서비스 UI 개발·운영
-- 2,384개 SCSS 파일의 Dart Sass 전환과 결과 검증
+- AI 보조 도구를 활용한 2,384개 SCSS 파일의 Dart Sass 전환과 산출물·빌드 결과 직접 검증
 - 회사 제공 PR Review Agent의 8개 저장소 도입·설정
 - Storybook 기반 UI 확인 환경과 기술 문서 70여 건 작성
 - 약 3년간 팀장으로 일정, 품질, 업무 분배와 고객 커뮤니케이션 담당
