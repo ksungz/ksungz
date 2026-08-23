@@ -1,4 +1,4 @@
-# 김성재 | Frontend Engineer
+# 김성재 | Frontend Engineer · Service UI
 
 13년 동안 커머스·게임·플랫폼 서비스에서 UI를 만들고 운영했습니다.
 
@@ -33,7 +33,7 @@ React·TypeScript 컴포넌트 이관과 Storybook 확인 환경 구축에도 �
 
 - 11번가 모바일웹 상품상세와 신규 서비스 UI 개발·운영
 - AI 보조 도구를 활용한 2,384개 SCSS 파일의 Dart Sass 전환과 산출물·빌드 결과 직접 검증
-- 회사 제공 PR Review Agent의 8개 저장소 도입·설정
+- 회사 제공 PR Review Agent의 8개 저장소 적용 과정에 참여하고 파일 필터·리뷰 기준 설정
 - Storybook 기반 UI 확인 환경과 기술 문서 70여 건 작성
 - 약 3년간 팀장으로 일정, 품질, 업무 분배와 고객 커뮤니케이션 담당
 
